@@ -1,6 +1,12 @@
-KAMINA SUR TV
+KAMINA SUR TV{
+comienzo -> EVO MORALES VUELVE RET4R LUCHO ARCE IR ELECCIONES
+fin -> DIPUTADO JHONNY PARDO RESPONDE PRESIDENTE ARCE POR DECIR QUE NO HAY CRISIS EN BOLIVIA..
+}
 
-Bolivisión Al Día
+Bolivisión Al Día{
+comienzo -> Día mundial del Parkinson
+fin -> Un padrastro es acusado de abusar sexualmente de dos menores
+}
 
 Bolivia TV Oficial
 
@@ -11,6 +17,27 @@ Noticias Bolivia.
 Unitel Fans Bolivia - Noticias de Bolivia
 
 Unitel Bolivia
+
+RED GIGAVISION Noticias y más
+
+
+
+______________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
