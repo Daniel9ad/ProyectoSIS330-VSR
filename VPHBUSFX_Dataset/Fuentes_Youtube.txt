@@ -8,7 +8,10 @@ comienzo -> Día mundial del Parkinson
 fin -> Un padrastro es acusado de abusar sexualmente de dos menores
 }
 
-Bolivia TV Oficial
+Bolivia TV Oficial{
+comienzo -> Sobrevivientes de pederastia presentaron libro que relata los abusos sufridos a manos de sacerdotes
+fin -> Justicia de EEUU condena a Murillo a indemnizar a Bolivia con $ 6 MM
+}
 
 La Razón Digital Bolivia
 
@@ -24,9 +27,25 @@ RED GIGAVISION Noticias y más
 
 ______________
 
+Falta agregar
 
-
-
+https://www.youtube.com/watch?v=UsFnKPg7W7A
+https://www.youtube.com/watch?v=F8PQ5Ms56Tg
+https://www.youtube.com/watch?v=Yhfxq3Ho5x4
+https://www.youtube.com/watch?v=P4PRaVRg9lY
+https://www.youtube.com/watch?v=wuMYvsqH0AY
+https://www.youtube.com/watch?v=90HTjUsGM_c
+https://www.youtube.com/watch?v=QP2xUAChUg8
+https://www.youtube.com/watch?v=Frpmpxukxrk
+https://www.youtube.com/watch?v=WZ3gCw5Icl8
+https://www.youtube.com/watch?v=3RpE6CcCLyw
+https://www.youtube.com/watch?v=2r4TIie320E
+https://www.youtube.com/watch?v=3DN0oDI86F8
+https://www.youtube.com/watch?v=YRuO9UWdWyA
+https://www.youtube.com/watch?v=ORm0Zp0vIq8
+https://www.youtube.com/watch?v=PZFwMtPTDRk
+https://www.youtube.com/watch?v=Q3rGqPIa7s0
+https://www.youtube.com/watch?v=xsF3TWm8E2M
 
 
 
