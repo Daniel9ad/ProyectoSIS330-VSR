@@ -19,7 +19,10 @@ Noticias Bolivia.
 
 Unitel Fans Bolivia - Noticias de Bolivia
 
-Unitel Bolivia
+Unitel Bolivia{
+comienzo -> Padres rechazan el traslado del Pabellón de Quemados
+fin -> Reportan sismo de magnitud 4.8 en el Trópico de Cochabamba
+}
 
 RED GIGAVISION Noticias y más
 
@@ -46,6 +49,19 @@ https://www.youtube.com/watch?v=ORm0Zp0vIq8
 https://www.youtube.com/watch?v=PZFwMtPTDRk
 https://www.youtube.com/watch?v=Q3rGqPIa7s0
 https://www.youtube.com/watch?v=xsF3TWm8E2M
+
+https://www.youtube.com/watch?v=ExPvElNsrSU
+https://www.youtube.com/watch?v=S-fUjBYmFTQ
+https://www.youtube.com/watch?v=JAnhYdx71lo
+https://www.youtube.com/watch?v=EkgPazXTQio
+https://www.youtube.com/watch?v=vvczJSM05Rc
+https://www.youtube.com/watch?v=rNbLCUnE6j0
+https://www.youtube.com/watch?v=S4p7GQTiSgA
+https://www.youtube.com/watch?v=DgMQrlGe6s4
+https://www.youtube.com/watch?v=DdIN2E1mf2A
+https://www.youtube.com/watch?v=JWQ7gbkczLU
+https://www.youtube.com/watch?v=02Jqpl4ODeU
+https://www.youtube.com/watch?v=7l5Bsz3LtJo
 
 
 
